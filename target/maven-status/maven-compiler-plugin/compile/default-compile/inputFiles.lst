@@ -1,0 +1,14 @@
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/SwaggerConfig.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/ServletInitializer.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/web/controller/CommonController.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/web/controller/VehicleController.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/DBInitializer.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/services/impl/VehicleServiceImpl.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/IdiadaExerciseApplication.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/persistence/repository/VehicleRepository.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/dto/VehicleDTO.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/web/converter/VehicleConverter.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/services/VehicleService.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/dto/CreateVehicleDTO.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/domain/Vehicle.java
+/Users/ismaelgutierrezcasao/Desktop/coding_exercise/idiada-exercise-backend/src/main/java/com/idiada/exercise/ApplicationConfig.java

@@ -1,0 +1,16 @@
+com/idiada/exercise/DBInitializer.class
+com/idiada/exercise/ServletInitializer.class
+com/idiada/exercise/dto/CreateVehicleDTO.class
+com/idiada/exercise/web/converter/VehicleConverter$2.class
+com/idiada/exercise/web/controller/VehicleController.class
+com/idiada/exercise/IdiadaExerciseApplication.class
+com/idiada/exercise/web/converter/VehicleConverter$1.class
+com/idiada/exercise/services/VehicleService.class
+com/idiada/exercise/persistence/repository/VehicleRepository.class
+com/idiada/exercise/dto/VehicleDTO.class
+com/idiada/exercise/SwaggerConfig.class
+com/idiada/exercise/web/controller/CommonController.class
+com/idiada/exercise/domain/Vehicle.class
+com/idiada/exercise/services/impl/VehicleServiceImpl.class
+com/idiada/exercise/web/converter/VehicleConverter.class
+com/idiada/exercise/ApplicationConfig.class
