@@ -69,4 +69,5 @@ public class DBInitializer implements ServletContextListener {
 		Random r = new Random();
 		return input[r.nextInt(input.length)];
 	}
+
 }

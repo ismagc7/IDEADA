@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
                 RequestMethod.POST,
                 RequestMethod.PUT,
                 RequestMethod.DELETE,
-                RequestMethod.OPTIONS}
-)
+                RequestMethod.OPTIONS})
 public class CommonController {
 }

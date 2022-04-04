@@ -3,7 +3,7 @@ package com.idiada.exercise.services;
 import java.util.List;
 
 import com.idiada.exercise.domain.Vehicle;
-
+import org.springframework.stereotype.Service;
 
 public interface VehicleService {
 	
